@@ -1,2 +1,2 @@
-political_tiwtter
+political_twitter
 =================
