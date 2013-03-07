@@ -1,0 +1,14 @@
+#toptilte {
+    color : red;
+    
+}
+
+#tweetbox1{
+    background-color: #009cee;
+    width: 40%;
+    
+    
+    border-bottom-color: green;
+    border-width: 2px;
+    border-style: inset;
+}
