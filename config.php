@@ -25,10 +25,10 @@ define('DSN','mysql:host=localhost;dbname=political_tw_connect_php');
 define('DB_USER', 'dbuser');
 define('DB_PASSWORD','karamawari');
 
-define('CONSUMER_KEY','VGU41gwG0HPyGkUweqK8Fg');
-define('CONSUMER_SECRET','sw91075P2CvUhVlDB7RhbxuXL0DpbWNTz4onkYMAU');
-define('ACCESS_TOKEN' , '224114860-f6slC0Djd2yb4uJ0zsBaW4XyZ1Rx897CrWKEOnE');
-define('ACCESS_TOKEN_SECRET', 'XNFwO2QP4rGChkIpGa5dwMrdi9MTi5m9VL2Qn3wMU');
+define('CONSUMER_KEY','');
+define('CONSUMER_SECRET','');
+define('ACCESS_TOKEN' , '');
+define('ACCESS_TOKEN_SECRET', '');
 
 define('SITE_URL','http://localhost:8888/blogtest/tw_mtm/');
 
